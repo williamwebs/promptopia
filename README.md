@@ -14,6 +14,9 @@ pnpm dev
 bun dev
 ```
 
+## Live Link
+Click to Open [live link](https://promptopia-w4fv.vercel.app/) with your browser to see the live project.
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
